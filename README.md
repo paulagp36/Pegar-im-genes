@@ -2,4 +2,4 @@
 Aquí se pegarán imagenes
 
 
-![imagen1](/main/17549805141211.jpg))
+![imagen1](/imagenes/Olivia-Rodrigo-lanza-iniciativa-para-defender-.webp))
