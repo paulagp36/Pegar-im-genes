@@ -1,5 +1,5 @@
-# Pegar-im-genes
-Aquí se pegarán imágenes
+# Pegar-imagenes
+Aquí se pegarán imagenes
 
 
-![imágen1](/main/17549805141211.jpg))
+![imagen1](/main/17549805141211.jpg))
